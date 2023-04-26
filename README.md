@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5dd083&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Matias;Tenho+21+anos;Sou+brasileiro;E+curso+DSM+pela+Fatec;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusoms&bg_color=0d1117&color=095c4e&line=095c4e&point=b28dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoms&show_icons=true&count_private=true&hide_border=true&title_color=5dd083&icon_color=5dd083&text_color=FFFFFF&bg_color=095c4e" alt="Matheus Matias github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&layout=compact&hide_border=true&title_color=5dd083&text_color=FFFFFF&bg_color=095c4e" />
-</div>
+</div> -->
 
 
 <div align="center"> 
