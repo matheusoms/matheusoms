@@ -9,6 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&layout=compact&hide_border=true&title_color=5dd083&text_color=FFFFFF&bg_color=095c4e" />
 </div> -->
 
+![matheusoms github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=matheusoms)
 
 <div align="center"> 
 <a href="https://www.instagram.com/matheus.oms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
