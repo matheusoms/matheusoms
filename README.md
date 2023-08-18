@@ -1,13 +1,3 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e5575&height=120&section=header"/>
- -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4279a6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Matias;Tenho+21+anos;Sou+brasileiro;E+curso+DSM+pela+Fatec;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
- -->
-<br>
-
-<!--  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusoms&bg_color=0d1117&color=095c4e&line=095c4e&point=b28dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
 <div align="center">
   <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats?login=matheusoms" width="800" /></a>
  </div>
@@ -31,10 +21,7 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-<!-- ![Snake animation](https://github.com/matheusoms/matheusoms/blob/output/github-contribution-grid-snake.svg)
-  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e5575&height=120&section=footer"/>
- -->
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
