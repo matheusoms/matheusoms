@@ -1,6 +1,4 @@
-<div align="center">
-  <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats?login=matheusoms" width="800" /></a>
- </div>
+
  
  <br>
  
