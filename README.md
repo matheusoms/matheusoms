@@ -1,6 +1,5 @@
 ### Hi there!
-I'm Matheus Matias, a 22-year-old software development student from Brazil, currently studying at Fatec. Alongside my studies, I work as an Infrastructure Analyst with 3 years of experience in the field. I’m passionate about software development and excited to explore new technologies and contribute to open-source projects. Feel free to connect with me or check out my repositories!
- 
+I'm Matheus Matias, a 23-year-old software development student from Brazil, currently studying at Fatec. Alongside my studies, I work as an   DevOps Junior in Finanto. Feel free to connect with me! 
  <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&layout=compact&hide_border=true&title_color=4279a6&text_color=FFFFFF&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoms&show_icons=true&count_private=true&hide_border=true&title_color=4279a6&icon_color=4279a6&text_color=FFFFFF&bg_color=0d1117" alt="Matheus Matias github stats" /> 
@@ -9,7 +8,7 @@ I'm Matheus Matias, a 22-year-old software development student from Brazil, curr
  ## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,py,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=linux,gcp,githubactions,bash,py,git,docker" />
   </a>
 </p>
 
