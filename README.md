@@ -6,7 +6,7 @@ As a DevOps Engineer specializing in **Google Cloud**, my expertise lies in crea
 - I'm studying Software Development at **Fatec-SP**.
 - I’m currently diving deeper into **Terraform** and **Service Meshes**.
 - Ask me about **Docker, Kubernetes or GCP**.
-- How to reach me: **mathmatiasjr1@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/matheusoms/).
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/matheusoms/).
 
 ---
 
