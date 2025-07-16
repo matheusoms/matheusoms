@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus Matias!
 
-I'm a DevOps Engineer and software development student from Brazil. I have a strong interest in cloud technologies, containerization, and building CI/CD pipelines that empower development teams.
+As a DevOps Engineer specializing in **Google Cloud**, my expertise lies in creating robust **CI/CD** pipelines using **GitHub Actions**. I am experienced in containerizing applications with **Docker** and orchestrating them with **Kubernetes**. Furthermore, focused on implementing **Secure Software Development Lifecycle (SSDLC)** practices to build secure and resilient infrastructure.
 
 - I'm currently a **DevOps Engineer** at **StarsPay**.
 - I'm studying Software Development at **Fatec-SP**.
