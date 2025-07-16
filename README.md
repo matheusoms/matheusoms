@@ -1,18 +1,30 @@
-### Hi there!
-I'm Matheus Matias, a 23-year-old software development student from Brazil, currently studying at Fatec. Alongside my studies, I work as an DevOps Engineer at StarsPay. Feel free to connect with me! 
+### Hi there, I'm Matheus Matias
+
+I'm a DevOps Engineer and software development student from Brazil. I have a strong interest in cloud technologies, containerization, and building CI/CD pipelines that empower development teams.
+
+- I'm currently a **DevOps Engineer** at **StarsPay**.
+- I'm studying Software Development at **Fatec-SP**.
+- I’m currently diving deeper into **Terraform** and **Service Meshes**.
+- Ask me about **Docker, Kubernetes or GCP**.
+- How to reach me: **mathmatiasjr1@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/matheusoms/).
+
+---
+
+### My GitHub Stats
+
  <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&layout=compact&hide_border=true&title_color=4279a6&text_color=FFFFFF&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoms&show_icons=true&count_private=true&hide_border=true&title_color=4279a6&icon_color=4279a6&text_color=FFFFFF&bg_color=0d1117" alt="Matheus Matias github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoms&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&theme=dark&show_icons=true&hide_border=true&layout=compact" /> 
 </div>
+
+ ---
  
- ## Skills:
+### Skills:
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,gcp,githubactions,bash,py,git,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,github,githubactions,bash,py,grafana,gcp,cloudflare,firebase,mysql,mongodb,git,docker,kubernetes,nginx" />
   </a>
 </p>
 
-<div align="center"> 
-<a href = "mailto:cmp.1a.mathmatiasjr1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheusoms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
+---
