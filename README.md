@@ -1,4 +1,4 @@
-### Hi there, I'm Matheus Matias
+### Hi there, I'm Matheus Matias!
 
 I'm a DevOps Engineer and software development student from Brazil. I have a strong interest in cloud technologies, containerization, and building CI/CD pipelines that empower development teams.
 
@@ -13,13 +13,13 @@ I'm a DevOps Engineer and software development student from Brazil. I have a str
 ### My GitHub Stats
 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoms&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&theme=dark&show_icons=true&hide_border=true&layout=compact" /> 
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoms&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&theme=dark&show_icons=true&hide_border=true&layout=compact" /> 
 </div>
 
  ---
  
-### Skills:
+### My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
