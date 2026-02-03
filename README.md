@@ -11,15 +11,6 @@ I'm a DevOps Engineer with a strong focus on the **Google Cloud Platform (GCP)**
 -   You can connect with me on [LinkedIn](https://www.linkedin.com/in/matheusoms).
 ---
 
-### My GitHub Stats
-
- <div align="center">  
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoms&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoms&theme=dark&show_icons=true&hide_border=true&layout=compact" /> 
-</div>
-
- ---
- 
 ### My Skills
 
 <p align="center">
