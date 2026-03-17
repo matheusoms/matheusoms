@@ -1,8 +1,8 @@
 <div>
 <table>
 <tr>
-<td width="600" valign="top">
-<img src="dante-lost-in-dark.jpg" width="600" alt="Matheus Matias">
+<td width="550" valign="top">
+<img src="dante-lost-in-dark.jpg" width="550" alt="Matheus Matias">
 </td>
 <td valign="top">
 <h1>Matheus Matias</h1>
@@ -22,11 +22,13 @@
 <li><strong>Languages & Scripting:</strong> Python, Shell Script (Bash), Linux</li>
 <li><strong>Databases & Servers:</strong> MySQL, MongoDB, Nginx</li>
 </ul>
-<h2>Contact & Skills</h2>
+<h2>Contact</h2>
 <ul>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/matheusoms">Matheus Matias</a></li>
 </ul>
 <p>
+
+<h2>Skills</h2>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=gcp,terraform,grafana,elasticsearch,jenkins,githubactions,cloudflare,firebase,mysql,mongodb,supabase,linux" alt="My Skills" />
 
