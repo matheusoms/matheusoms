@@ -15,21 +15,20 @@
 </ul>
 <h2>Technologies</h2>
 <ul>
-<li><strong>Cloud & Containers:</strong> GCP, Kubernetes, Docker, Cloudflare, Firebase</li>
-<li><strong>CI/CD & IaC:</strong> Terraform, GitHub Actions, Git</li>
-<li><strong>Observability:</strong> Google Cloud Ops, Grafana Stack</li>
-<li><strong>Dev & OS:</strong> Python, Bash, Linux, Databases, Nginx</li>
+<li><strong>Cloud & Containers:</strong> GCP, Kubernetes, Docker</li>
+<li><strong>Automation & IaC:</strong> Terraform, Jenkins, GitHub Actions</li>
+<li><strong>Observability:</strong> Grafana, Prometheus, Elasticsearch</li>
+<li><strong>Scripting & Data:</strong> Python, Bash, MySQL, MongoDB, Nginx</li>
+</ul>
+<h2>Contact & Skills</h2>
+<ul>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/matheusoms">Matheus Matias</a></li>
+</ul>
 <p>
-<br>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=gcp,terraform,grafana,elasticsearch,jenkins,githubactions,bash,py,mysql,mongodb,nginx,docker,kubernetes,prometheus" alt="My Skills" />
 </a>
 </p>
-</ul>
-<h2>Contact</h2>
-<ul>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/matheusoms">Matheus Matias</a></li>
-</ul>
 </td>
 </tr>
 </table>
