@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td width="550" valign="top">
-<img src="dante-lost-in-dark.jpg" width="550" alt="Matheus Matias">
+<img src="dante-lost.png" width="550" alt="Matheus Matias">
 </td>
 <td valign="top">
 <h1>Matheus Matias</h1>
