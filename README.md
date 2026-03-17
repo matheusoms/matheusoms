@@ -1,39 +1,32 @@
 <div>
 <table>
 <tr>
-<td width="400" valign="top">
-<img src="the-inferno-canto-8-1.avif" width="400" alt="Matheus Matias">
+<td width="550" valign="top">
+<img src="Paradise_Lost_1.jpg" width="550" alt="Matheus Matias">
 </td>
 <td valign="top">
 <h1>Matheus Matias</h1>
-<p>DevOps Engineer with a strong focus on the Google Cloud Platform (GCP) ecosystem. My core mission is to design and implement secure, scalable, and highly available infrastructures using modern DevOps practices. Currently working as a DevOps Engineer at StarsPay and studying Multiplatform Software Development at FATEC-SP.</p>
+<p>DevOps Engineer focused on GCP, building secure and scalable infrastructures. Currently at StarsPay and studying Software Development at FATEC-SP.</p>
 <h2>Areas of Interest</h2>
 <ul>
-<li>Modern DevOps practices and SSDLC</li>
-<li>Infrastructure as Code (IaC)</li>
-<li>Advanced Kubernetes and Service Mesh architectures</li>
-<li>Observability and system performance</li>
+<li>DevOps, SSDLC & IaC</li>
+<li>Kubernetes & Service Mesh architectures</li>
+<li>System Observability & Performance</li>
 </ul>
 <h2>Technologies</h2>
 <ul>
-<li><strong>Cloud & Orchestration:</strong> GCP, Kubernetes (GKE), Docker, Cloudflare, Firebase</li>
-<li><strong>Automation & CI/CD:</strong> Terraform, GitHub Actions, Git</li>
-<li><strong>Observability:</strong> Google Cloud Operations Suite, Grafana Stack (Loki, Mimir)</li>
-<li><strong>Languages & Scripting:</strong> Python, Shell Script (Bash), Linux</li>
-<li><strong>Databases & Servers:</strong> MySQL, MongoDB, Nginx</li>
+<li><strong>Cloud & Containers:</strong> GCP, Kubernetes, Docker, Cloudflare, Firebase</li>
+<li><strong>CI/CD & IaC:</strong> Terraform, GitHub Actions, Git</li>
+<li><strong>Observability:</strong> Google Cloud Ops, Grafana Stack</li>
+<li><strong>Dev & OS:</strong> Python, Bash, Linux, Databases, Nginx</li>
 </ul>
-<h2>Contact</h2>
+<h2>Contact & Skills</h2>
 <ul>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/matheusoms">Matheus Matias</a></li>
 </ul>
 <p>
-
-<h2>Skills</h2>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=gcp,terraform,grafana,elasticsearch,jenkins,githubactions,cloudflare,firebase,mysql,mongodb,supabase,linux" alt="My Skills" />
-
-<img src="https://skillicons.dev/icons?i=github,py,bash,nodejs,php,postgres,git,fastapi,nginx,docker,kubernetes,prometheus" alt="My Skills" />
-
+<img src="https://skillicons.dev/icons?i=gcp,terraform,grafana,elasticsearch,jenkins,githubactions,bash,py,mysql,mongodb,nginx,docker,kubernetes,prometheus" alt="My Skills 2" />
 </a>
 </p>
 </td>
