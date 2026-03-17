@@ -1,8 +1,8 @@
 <div>
 <table>
 <tr>
-<td width="500" valign="top">
-<img src="the-inferno-canto-8-1.avif" width="500" alt="Matheus Matias">
+<td width="400" valign="top">
+<img src="the-inferno-canto-8-1.avif" width="400" alt="Matheus Matias">
 </td>
 <td valign="top">
 <h1>Matheus Matias</h1>
