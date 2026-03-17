@@ -1,8 +1,8 @@
 <div>
 <table>
 <tr>
-<td width="400" valign="top">
-<img src="Paradise_Lost_1.jpg" width="400" alt="Matheus Matias">
+<td width="450" valign="top">
+<img src="Paradise_Lost_1.jpg" width="450" alt="Gustave Doré Paradise Lost">
 </td>
 <td valign="top">
 <h1>Matheus Matias</h1>
@@ -26,7 +26,7 @@
 </ul>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=gcp,terraform,grafana,elasticsearch,jenkins,githubactions,bash,py,mysql,mongodb,nginx,docker,kubernetes,prometheus" alt="My Skills 2" />
+<img src="https://skillicons.dev/icons?i=gcp,terraform,grafana,elasticsearch,jenkins,githubactions,bash,py,mysql,mongodb,nginx,docker,kubernetes,prometheus" alt="My Skills" />
 </a>
 </p>
 </td>
