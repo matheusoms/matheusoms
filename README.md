@@ -6,27 +6,30 @@
 </td>
 <td valign="top">
 <h1>Matheus Matias</h1>
-<p>DevOps Engineer focused on GCP, building secure and scalable infrastructures. Currently at StarsPay and studying Software Development at FATEC-SP.</p>
+<p>DevOps Engineer at Samsung SDS, running the infrastructure behind Autopass, the public transit ticketing platform for bus and metro systems across Brazilian cities. My work covers governance, automation, observability and security across private cloud (Zadara) and AWS.</p>
+<p>Graduated in Multiplatform Software Development at FATEC Araras.</p>
 <h2>Areas of Interest</h2>
 <ul>
-<li>DevOps, SSDLC & IaC</li>
+<li>Observability & Reliability (LGTM stack, alerting, incident analysis)</li>
+<li>DevOps, SSDLC & Secrets Management</li>
+<li>Infrastructure as Code & Configuration Management</li>
 <li>Kubernetes & Service Mesh architectures</li>
-<li>System Observability & Performance</li>
 </ul>
 <h2>Technologies</h2>
 <ul>
-<li><strong>Cloud & Containers:</strong> GCP, Kubernetes, Docker</li>
-<li><strong>Automation & IaC:</strong> Terraform, Jenkins, GitHub Actions</li>
-<li><strong>Observability:</strong> Grafana, Prometheus, Elasticsearch</li>
-<li><strong>Scripting & Data:</strong> Python, Bash, MySQL, MongoDB, Nginx</li>
+<li><strong>Cloud & Containers:</strong> Zadara Cloud, AWS, GCP, Docker, Docker Swarm, Kubernetes</li>
+<li><strong>Automation & CI/CD:</strong> Ansible, GitLab CI (self-managed GitLab CE), Terraform, GitHub Actions</li>
+<li><strong>Observability:</strong> Grafana Stack, ELK, Prometheus, Alertmanager</li>
+<li><strong>Networking & Security:</strong> Traefik, Nginx, OpenBao, Keycloak</li>
+<li><strong>Data & Scripting:</strong> PostgreSQL, TimescaleDB, Redis, Python, Bash</li>
 </ul>
-<h2>Contact & Skills</h2>
+<h2>Contact</h2>
 <ul>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/matheusoms">Matheus Matias</a></li>
 </ul>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=gcp,terraform,grafana,elasticsearch,jenkins,githubactions,bash,py,mysql,mongodb,nginx,docker,kubernetes,prometheus" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=linux,aws,gcp,docker,kubernetes,ansible,terraform,gitlab,githubactions,grafana,elasticsearch,prometheus,nginx,redis,py,bash&perline=8" alt="My Skills" />
 </a>
 </p>
 </td>
