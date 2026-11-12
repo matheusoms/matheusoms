@@ -1,9 +1,9 @@
 <div>
 <table>
 <tr>
-<td width="450" valign="top">
+<!-- <td width="450" valign="top">
 <img src="Paradise_Lost_1.jpg" width="450" alt="Gustave Doré Paradise Lost">
-</td>
+</td> -->
 <td valign="top">
 <h1>Matheus Matias</h1>
 <p>DevOps Engineer at Samsung SDS, running the infrastructure behind Autopass, the public transit ticketing platform for bus and metro systems across Brazilian cities. My work covers governance, automation, observability and security across private cloud (Zadara) and AWS.</p>
