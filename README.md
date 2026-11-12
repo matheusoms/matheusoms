@@ -29,7 +29,7 @@
 </ul>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,aws,gcp,docker,kubernetes,ansible,terraform,gitlab,githubactions,grafana,elasticsearch,prometheus,nginx,redis,py,bash&perline=8" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=linux,aws,gcp,docker,kubernetes,ansible,terraform,gitlab,githubactions,grafana,elasticsearch,prometheus,nginx,redis,py,bash&perline=16" alt="My Skills" />
 </a>
 </p>
 </td>
